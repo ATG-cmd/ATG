@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>GC.png</file>
+        <file>Tanque.png</file>
+        <file>Alarmas.png</file>
+        <file>Impresora.png</file>
+        <file>Menu.png</file>
+        <file>Guardar.png</file>
+        <file>Probeta.png</file>
+        <file>Login.png</file>
+        <file>Usuario.png</file>
+        <file>Config.png</file>
+        <file>Regresar.png</file>
+    </qresource>
+</RCC>
